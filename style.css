@@ -1,7 +1,5 @@
 * {
     box-sizing: border-box;
-    margin: o;
-    padding: 0;
 }
 
 body {
@@ -12,10 +10,9 @@ body {
     margin-top: 20px;
     border: 2px solid #343a40;
     border-radius: 8px;
-    text-align: center;
 }
 
-h1 {
+h1, ul{
     text-align: center;
     color: cadetblue;
 }
@@ -25,9 +22,9 @@ p {
     font-size: 18px;
 }
 
-.image {
+/* .image {
     margin-bottom: 5px;
-}
+} */
 
 .jumbotron {
     background-color: cadetblue;
@@ -37,3 +34,8 @@ p {
 .display-4 {
     color: #eee;
 }
+
+.lead {
+    text-align: center;
+}
+
