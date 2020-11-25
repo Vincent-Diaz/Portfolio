@@ -22,7 +22,7 @@ function Projects() {
                         <h1 className="text-center">Projects</h1>
                         <hr />
                     </div>
-                </Row>
+                </Row>class
                 <Row>
                     <div className="col-md-4 p-3">
                         <div className="card">
@@ -42,7 +42,7 @@ function Projects() {
                     </div>
                     <div className="col-md-4 p-3">
                         <div className="card">
-                            <img src={Img1} class="card-img-top" alt="Weather Dashboard" />
+                            <img src={Img1} className="card-img-top" alt="Weather Dashboard" />
                             <div className="card-body">
                                 <h5 className="card-title">Combat Fitness</h5>
                             </div>
@@ -50,7 +50,7 @@ function Projects() {
                                 <a href="https://combatfitness.herokuapp.com/" target="_blank" rel="noopener noreferrer" className="card-link">
                                     Live URL
                                 </a>
-                                <a href="https://github.com/Sarah-Nguyen1993/Fitness-Tracker.git" target="_blank" rel="noopener noreferrer" className="card-link">
+                                <a href="https://github.com/Sarah-Nguyen1993/Combat-Fitness" target="_blank" rel="noopener noreferrer" className="card-link">
                                     Github Repo
                                 </a>
                             </div>
