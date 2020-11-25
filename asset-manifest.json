@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/Portfolio/static/css/main.5c623e7f.chunk.css",
+    "main.js": "/Portfolio/static/js/main.22b2bfe6.chunk.js",
+    "main.js.map": "/Portfolio/static/js/main.22b2bfe6.chunk.js.map",
+    "runtime-main.js": "/Portfolio/static/js/runtime-main.4152c12f.js",
+    "runtime-main.js.map": "/Portfolio/static/js/runtime-main.4152c12f.js.map",
+    "static/js/2.85ec8c1e.chunk.js": "/Portfolio/static/js/2.85ec8c1e.chunk.js",
+    "static/js/2.85ec8c1e.chunk.js.map": "/Portfolio/static/js/2.85ec8c1e.chunk.js.map",
+    "static/js/3.441a82fd.chunk.js": "/Portfolio/static/js/3.441a82fd.chunk.js",
+    "static/js/3.441a82fd.chunk.js.map": "/Portfolio/static/js/3.441a82fd.chunk.js.map",
+    "index.html": "/Portfolio/index.html",
+    "static/css/main.5c623e7f.chunk.css.map": "/Portfolio/static/css/main.5c623e7f.chunk.css.map",
+    "static/js/2.85ec8c1e.chunk.js.LICENSE.txt": "/Portfolio/static/js/2.85ec8c1e.chunk.js.LICENSE.txt",
+    "static/media/06-server-side-apis-homework-demo.91b09f9b.png": "/Portfolio/static/media/06-server-side-apis-homework-demo.91b09f9b.png",
+    "static/media/CombatFitness.407916e0.png": "/Portfolio/static/media/CombatFitness.407916e0.png",
+    "static/media/EventSafe.db1dbf5a.png": "/Portfolio/static/media/EventSafe.db1dbf5a.png",
+    "static/media/Fitness-Tracker.f556926c.gif": "/Portfolio/static/media/Fitness-Tracker.f556926c.gif",
+    "static/media/Note-Taker.ee59e821.png": "/Portfolio/static/media/Note-Taker.ee59e821.png",
+    "static/media/Vincent_Diaz_Resume.d99b4fa4.pdf": "/Portfolio/static/media/Vincent_Diaz_Resume.d99b4fa4.pdf",
+    "static/media/mainphoto.2621f6c3.jpg": "/Portfolio/static/media/mainphoto.2621f6c3.jpg",
+    "static/media/workdayscheduler.ca4c255a.png": "/Portfolio/static/media/workdayscheduler.ca4c255a.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4152c12f.js",
+    "static/js/2.85ec8c1e.chunk.js",
+    "static/css/main.5c623e7f.chunk.css",
+    "static/js/main.22b2bfe6.chunk.js"
+  ]
+}
