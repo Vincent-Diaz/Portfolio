@@ -13,7 +13,7 @@ function NavBar() {
                     <span className="navbar-toggler-icon"></span>
                 </button>
                 <div className="collapse navbar-collapse" id="navbarNav">
-                    <ul className="navbar-nav ml-auto">
+                    <ul className="navbar-nav mr-auto">
                         <li className="nav-item active">
                             <Link
                                 to="/"
