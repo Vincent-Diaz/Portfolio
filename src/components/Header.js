@@ -4,7 +4,7 @@ import { Link } from "react-router-dom";
 function NavBar() {
     return (
         <nav className="navbar navbar-expand-lg navbar-dark bg-dark">
-            <Link className="navbar-brand" href="#">
+            <Link className="navbar-brand" href="/">
                 <strong>Vincent Diaz</strong>
             </Link>
             <div>
@@ -15,17 +15,29 @@ function NavBar() {
                 <div className="collapse navbar-collapse" id="navbarNav">
                     <ul className="navbar-nav ml-auto">
                         <li className="nav-item active">
-                            <Link className="nav-link" href="#">
-                                Home <span class="sr-only">(current)</span>
+                            <Link
+                                to="/"
+                                className={
+                                    window.location.pathname === "/" || window.location.pathname === "/about"
+                                        ? "nav-link active"
+                                        : "nav-link"
+                                }>
+                                Home
                             </Link>
                         </li>
                         <li className="nav-item">
-                            <Link className="nav-link" href="portfolio.html">
-                                Portfolio
+                            <Link
+                                to="/projects"
+                                className={window.location.pathname === "/projects" ? "nav-link active" : "nav-link"}
+                            >
+                                Projects
                             </Link>
                         </li>
                         <li className="nav-item">
-                            <Link className="nav-link" href="contact.html">
+                            <Link
+                                to="/contact"
+                                className={window.location.pathname === "/contact" ? "nav-link active" : "nav-link"}
+                            >
                                 Contact
                             </Link>
                         </li>
