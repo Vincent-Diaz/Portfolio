@@ -14,14 +14,14 @@ function App() {
       <div>
         <NavBar />
         <Switch>
-          <Route exact path={["/", "/about"]}>
-            <About />
-          </Route>
           <Route exact path="/projects">
             <Projects />
           </Route>
           <Route exact path="/contact">
             <Contact />
+          </Route>
+          <Route exact path={["/Portfolio", "/about", "/"]}>
+            <About />
           </Route>
         </Switch>
         <Footer />
