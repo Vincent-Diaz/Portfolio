@@ -1,0 +1,66 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    background-color: rgb(170, 167, 167);
+}
+.container {
+    background-color:#eee;
+    margin-top: 20px;
+    margin-bottom: 30px;
+    border: 2px solid #343a40;
+    border-radius: 8px;
+}
+
+h1, ul{
+    text-align: center;
+    color: cadetblue;
+}
+
+p {
+    text-align: justify;
+    font-size: 18px;
+}
+
+/* .image {
+    margin-bottom: 5px;
+} */
+
+.jumbotron {
+    background-color: cadetblue;
+    text-align: center;
+    color: #eee;
+}
+.display-4 {
+    color: #eee;
+}
+
+.card {
+    width: 18rem;
+}
+
+.lead {
+    text-align: center;
+}
+
+.footer {
+    margin-top: 1rem;
+    padding: 1rem;
+    background-color: #343A40;
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+  }
+  
+  span {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    padding: 3px;
+    color: #ffffff;
+    text-align: center;
+    font-size: 20px;
+  }
