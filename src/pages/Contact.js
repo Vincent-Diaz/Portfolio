@@ -1,6 +1,5 @@
 import React from "react"
 import Container from "../components/Container"
-import Container from "../components/Container";
 import Row from "../components/Row";
 import Col from "../components/Col";
 
@@ -20,14 +19,14 @@ function Contact() {
                 </Row>
                 <form>
                     <div className="form-group">
-                        <label for="exampleInputName1">Name</label>
+                        <label htmlFor="exampleInputName1">Name</label>
                         <input type="email" className="form-control" id="exampleInputEmail1" aria-describedby="emailHelp" />
                         <div className="form-group">
-                            <label for="exampleInputEmail1">Email address</label>
+                            <label htmlFor="exampleInputEmail1">Email address</label>
                             <input type="password" className="form-control" id="exampleInputPassword1" />
                         </div>
                         <div className="form-group">
-                            <label for="exampleFormControlTextarea1">Message</label>
+                            <label htmlFor="exampleFormControlTextarea1">Message</label>
                             <textarea className="form-control" id="exampleFormControlTextarea1" rows="3"></textarea>
                         </div>
                         <button type="submit" className="btn btn-primary">Submit</button>
@@ -37,3 +36,4 @@ function Contact() {
         </div>
     )
 }
+export default Contact
