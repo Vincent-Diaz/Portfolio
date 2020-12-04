@@ -10,6 +10,7 @@ import Img2 from "../images/06-server-side-apis-homework-demo.png"
 import Img3 from "../images/Fitness-Tracker.gif"
 import Img4 from "../images/workdayscheduler.png"
 import Img5 from "../images/Note-Taker.png"
+import Img6 from "../images/googlebooks.gif"
 
 
 function Projects() {
@@ -115,6 +116,22 @@ function Projects() {
                                     Live URL
                                 </a>
                                 <a href="https://github.com/Vincent-Diaz/Note-Taker.git" target="_blank" rel="noopener noreferrer" className="card-link">
+                                    Github Repo
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                    <div className="col-md-4 p-3">
+                        <div className="card">
+                            <img src={Img6} className="card-img-top" alt="Note Taker" />
+                            <div className="card-body">
+                                <h5 className="card-title">Google Books Search</h5>
+                            </div>
+                            <div className="card-body">
+                                <a href="https://google-books52.herokuapp.com/" target="_blank" rel="noopener noreferrer" className="card-link">
+                                    Live URL
+                                </a>
+                                <a href="https://github.com/Vincent-Diaz/Google-Book-Search.git" target="_blank" rel="noopener noreferrer" className="card-link">
                                     Github Repo
                                 </a>
                             </div>
