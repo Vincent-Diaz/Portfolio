@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/Portfolio/static/css/main.5c623e7f.chunk.css",
-    "main.js": "/Portfolio/static/js/main.c0f3883c.chunk.js",
-    "main.js.map": "/Portfolio/static/js/main.c0f3883c.chunk.js.map",
+    "main.js": "/Portfolio/static/js/main.c6ea0646.chunk.js",
+    "main.js.map": "/Portfolio/static/js/main.c6ea0646.chunk.js.map",
     "runtime-main.js": "/Portfolio/static/js/runtime-main.4152c12f.js",
     "runtime-main.js.map": "/Portfolio/static/js/runtime-main.4152c12f.js.map",
     "static/js/2.85ec8c1e.chunk.js": "/Portfolio/static/js/2.85ec8c1e.chunk.js",
@@ -18,6 +18,7 @@
     "static/media/Fitness-Tracker.f556926c.gif": "/Portfolio/static/media/Fitness-Tracker.f556926c.gif",
     "static/media/Note-Taker.ee59e821.png": "/Portfolio/static/media/Note-Taker.ee59e821.png",
     "static/media/Vincent_Diaz_Resume.d99b4fa4.pdf": "/Portfolio/static/media/Vincent_Diaz_Resume.d99b4fa4.pdf",
+    "static/media/googlebooks.5e47b3ca.gif": "/Portfolio/static/media/googlebooks.5e47b3ca.gif",
     "static/media/mainphoto.2621f6c3.jpg": "/Portfolio/static/media/mainphoto.2621f6c3.jpg",
     "static/media/workdayscheduler.ca4c255a.png": "/Portfolio/static/media/workdayscheduler.ca4c255a.png"
   },
@@ -25,6 +26,6 @@
     "static/js/runtime-main.4152c12f.js",
     "static/js/2.85ec8c1e.chunk.js",
     "static/css/main.5c623e7f.chunk.css",
-    "static/js/main.c0f3883c.chunk.js"
+    "static/js/main.c6ea0646.chunk.js"
   ]
 }
